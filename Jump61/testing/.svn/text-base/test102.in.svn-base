@@ -1,0 +1,11 @@
+# Test the 'clear' command.
+java -ea jump61.Main
+None
+===#1===
+set 1 2 1 b
+set 1 1 2 r
+dump
+clear
+dump
+quit
+===#2===

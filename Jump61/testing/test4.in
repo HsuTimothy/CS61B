@@ -1,0 +1,19 @@
+# Fill this in.
+staff-jump61
+staff-jump61
+===#1===
+size 3
+auto Red
+manual Blue
+start
+%mr
+%ib
+===#2===
+size 3 
+manual Red
+auto Blue
+start
+%ir
+%mb
+%e
+quit

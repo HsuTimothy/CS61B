@@ -1,0 +1,13 @@
+# Test the 'size' command.
+java -ea jump61.Main
+None
+===#1===
+size 4
+dump
+set 1 1 2 r
+set 2 1 2 b
+dump
+size 5
+dump
+quit
+===#2===
